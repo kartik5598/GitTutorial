@@ -1,0 +1,4 @@
+*.log
+/abc/
+static/abc
+db.accdb
